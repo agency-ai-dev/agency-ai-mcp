@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/logo.png" alt="Agency AI Logo"/> 
+<img src="./assets/logo.png" height="128px" alt="Agency AI Logo"/> 
 
 # Agency AI MCP Server
 
