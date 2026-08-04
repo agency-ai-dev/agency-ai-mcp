@@ -1,6 +1,7 @@
-#![Agency AI Logo](./assets/logo.png) Agency AI MCP Server
-
 <div align="center">
+<img src="./assets/logo.png" alt="Agency AI Logo"/> 
+
+# Agency AI MCP Server
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![MCP Compatible](https://img.shields.io/badge/MCP-Compatible-brightgreen)](https://modelcontextprotocol.io)
