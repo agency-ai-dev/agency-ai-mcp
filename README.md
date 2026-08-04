@@ -1,4 +1,4 @@
-# 🚀 Agency AI MCP Server
+#![Agency AI Logo](./assets/logo.png) Agency AI MCP Server
 
 <div align="center">
 
