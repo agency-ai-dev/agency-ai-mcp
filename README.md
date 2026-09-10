@@ -8,9 +8,11 @@
 [![Claude Ready](https://img.shields.io/badge/Claude-Ready-blue?logo=anthropic)](https://claude.ai)
 [![ChatGPT Ready](https://img.shields.io/badge/ChatGPT-Ready-green?logo=openai)](https://chatgpt.com)
 
-**Create, launch, and manage Meta + Google ads from Claude and ChatGPT**
+**Turns Claude and ChatGPT into a CMO for your Meta and Google ads**
 
 🎯 Full ad management in chat | 📊 Real-time performance insights | ⚡ Ad creation + editing | 💰 Budget optimization
+
+Connect once. Your assistant analyzes, launches, optimizes and reports on your campaigns, on a schedule you set.
 
 Works with any e-commerce platform or website. Deepest automation on Shopify.
 
@@ -35,7 +37,7 @@ Works with any e-commerce platform or website. Deepest automation on Shopify.
 
 ## 🎯 Overview
 
-Agency AI MCP turns Claude and ChatGPT into a full ad manager for your Meta (Facebook, Instagram) and Google ad accounts. Ask questions, get strategy, and make real changes to your campaigns without leaving the chat:
+Agency AI MCP turns Claude and ChatGPT into a CMO for your Meta (Facebook, Instagram) and Google ad accounts. Give it a goal instead of a to-do list – "keep my blended ROAS above 3 and scale what's working" – and it analyzes, launches, optimizes and reports without leaving the chat:
 
 ✨ **Performance Analysis** – campaign data, breakdowns, NCROAS and advanced KPIs
 🎯 **Strategy** – budget guidance, creative recommendations, scaling plans
