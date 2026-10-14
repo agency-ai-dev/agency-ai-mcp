@@ -159,7 +159,7 @@ Agency AI MCP works with **any e-commerce platform or website** – connect your
 ## ✅ Requirements
 
 - ✔️ An **Agency AI account** – [install the Shopify app](https://apps.shopify.com/agency-ai) or [create an account](https://agencyai.app/mcp) on any platform
-- ✔️ **Claude Max** subscription OR **ChatGPT** plan supporting custom connectors
+- ✔️ Any **Claude** plan (including free) OR a **ChatGPT** plan supporting custom connectors
 - ✔️ At least one connected ad account (Meta and/or Google) in Agency AI
 
 ---
