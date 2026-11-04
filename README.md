@@ -74,7 +74,7 @@ Create new ads, pause underperformers, adjust budgets, and launch campaigns acro
 
 ## 🧰 Tool Reference
 
-15 tools: 10 **read** tools for analysis and 5 **write** tools for ad management.
+16 tools: 11 **read** tools for analysis and 5 **write** tools for ad management.
 
 ### 📖 Read tools
 
@@ -86,6 +86,7 @@ Create new ads, pause underperformers, adjust budgets, and launch campaigns acro
 | `get_ads` | Meta ads with performance for the date range, ranked by spend – also the source-ad picker for `create_ad` |
 | `get_ad_creative` | One Meta ad's creative: type, primary text, headline, description, CTA, landing page, media URLs |
 | `get_performance_timeseries` | Daily spend, revenue, and ROAS per connected platform – one row per platform per day, each with a `data_status` (`complete`, `partial`, `not_synced`, `error`) and `last_synced_at` per platform; the window is at most 366 days |
+| `get_product_sales` | Your best sellers from Shopify's own analytics – net sales, items sold and orders per product (or per variant) for a date window, ranked by net sales, optionally split into Meta Ads, Google Ads and other by the channel Shopify attributed each order to |
 | `get_pacing` | Month-to-date spend vs the monthly budget you set, per platform – a platform whose spend couldn't be fetched is marked `available: false` with no spend figure, and `spendComplete: false` says the total leaves it out |
 | `get_anomalies` | Statistically unusual spend/ROAS days over the trailing 30 days |
 | `get_recommendations` | AI optimization recommendations with reasoning and confidence |

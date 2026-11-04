@@ -86,7 +86,7 @@ The connector accesses your Agency AI account data and provides real-time analys
 
 ## Ad Management (write tools)
 
-The connector ships 15 tools: ten read tools covering your campaigns, ad sets, ads, creative, pacing, anomalies, and recommendations, plus five write tools that create ads and make changes:
+The connector ships 16 tools: eleven read tools covering your campaigns, ad sets, ads, creative, pacing, anomalies, recommendations, and sales by product, plus five write tools that create ads and make changes:
 
 | Tool | What it changes |
 |------|-----------------|
